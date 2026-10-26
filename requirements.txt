@@ -1,0 +1,9 @@
+torch>=2.1,<2.9
+torchaudio>=2.1,<2.9
+flask>=3.0
+requests
+openai-whisper
+demucs
+soundfile
+google-genai
+static-ffmpeg
