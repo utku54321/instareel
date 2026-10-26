@@ -1,0 +1,6 @@
+ .venv/
+   jobs/
+   __pycache__/
+   gemini_key.txt
+   *.mp4
+   *.webm
